@@ -5,7 +5,7 @@ Windows dll injector. Based on Blackbone library - https://github.com/DarthTon/B
 
 ## Features ##
 
-- Supports x86 and ules
+- Supports x86 and x64 processes and modules
 - Kernel-mode injection feature (driver required)
 - Manual map of kernel drivers (driver required)
 - Injection of pure managed images without proxy dll
